@@ -1,4 +1,13 @@
-# Olá, meu nome e Jonathan Vinicius
+## 𝐇𝐞𝐥𝐥𝐨, <𝚍𝚎𝚟s/>! 
+
+<!-- My name is Felipe Santos and I absolutely love Technology!  -->
+
+- 🌎 I'm from Anápolis-GO / Brazil
+- 💜 I love watching movies, reading superhero comics
+- 💻 **Languages:** JavaScript, TypeScript Node.js, and looking forward to learn even more!
+- 🔧 **Tools:** Visual Studio Code, GitHub
+- 🎓 **Academic:** Computer Technician
+- 🛹🛹
 
 <div>
   <a href="https://github.com/Joaovictor144">
